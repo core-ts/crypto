@@ -9,8 +9,7 @@
     "clean:lib": "rimraf lib"
   },
   "devDependencies": {
-    "@types/crypto-js": "^4.1.0",
-    "crypto-js": "^4.1.1",
+    "idb-keyval": "^6.2.0",
     "tslint": "5.10.0",
     "typescript": "^3.8.3"
   },
